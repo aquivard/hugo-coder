@@ -1,6 +1,6 @@
 +++
-title = "About Hugo"
-slug = "about"
+title = "List of Tiger Live Cams"
+slug = "Live Cams"
 +++
 
 Hugo is a static site engine written in Go.

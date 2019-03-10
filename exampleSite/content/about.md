@@ -1,5 +1,5 @@
 +++
-title = "List of Tiger Live Cams"
+title = "Live Cams"
 slug = "Live Cams"
 +++
 

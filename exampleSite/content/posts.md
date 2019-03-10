@@ -3,27 +3,13 @@ title = "List of Tiger Charities"
 slug = "Posts"
 +++
 
-Hugo is a static site engine written in Go.
+Tigers are on the verge of extinction and are globally listed as "Endangered" on the IUCN. Donating to any of the following charities will help raise wild tiger populations, and help to protect them from a variety of threats:
+
+* [Panthera](https://www.panthera.org/initiative/save-tiger-fund)
+* [Worldwildlife](https://www.worldwildlife.org/species/tiger)
+* [SaveTigersNow](https://www.savetigersnow.org/)
 
 
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+P.S. Not affiliated with any of these organizations. I've just heard great things about them.
 
 Thanks for reading!

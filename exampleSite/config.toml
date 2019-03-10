@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "tigerto"
 
 theme = "hugo-coder"
 
@@ -16,14 +16,14 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
+    author = "Tigerto"
+    description = "Tigers are cool"
+    keywords = "tiger,live cam, charities, blog,developer,personal"
+    info = "Website listing tigegr live cams and charities"
+    avatarurl = "images/tiger-clipart-black-and-white-hand.jpg"
+    footercontent = ""
 
-    dateformat = "January 2, 2006"
+    dateformat = "March 10, 2019"
 
     hideCredits = false
     hideCopyright = false

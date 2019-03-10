@@ -74,7 +74,7 @@ disqusShortname = "yourdiscussshortname"
         languagename = "English"
 
         [[languages.en.menu.main]]
-        name = "About"
+        name = "Live Cams"
         weight = 1
         url = "/about/"
 

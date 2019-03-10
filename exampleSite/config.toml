@@ -28,7 +28,7 @@ http://admiring-mayer-92297b.netlify.com/* http://tiger.to/:splat 301!
 
     dateformat = "March 10, 2019"
 
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
